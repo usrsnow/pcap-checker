@@ -53,7 +53,7 @@ Make sure you have Python 3 and [Scapy](https://scapy.net/) installed:
 
 ```bash
 pip install scapy
-git clone https://github.com/x0dayy/pcap-checker.git
+git clone https://github.com/usrsnow/pcap-checker.git
 cd pcap-checker
 
 python3 pcapS.py
